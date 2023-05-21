@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Flavor Base</title>
+    </head>
+
+    <body>
+        <h1>Flavor Base</h1>
+        <h2>Find all of your flavors here</h2>
+        <a href="main.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmhMq1fa3mBxtOfE6C4aD-DvP_9fQCzulmORmhs21qWQ2M5GYq1LrHqBefFIDnU-hQdQ:https://s7d1.scene7.com/is/image/mcdonalds/DC_202106_0336_LargeVanillaCone_832x472:1-3-product-tile-desktop%3Fwid%3D765%26hei%3D472%26dpr%3Doff&usqp=CAU"></a>
+        <br>
+        <br>
+        <!--BRand Dropdown-->
+        <div class="dropdown">
+            <button class="dropbtn">Brands</button>
+            <div class="dropdown-content">
+                <a href="walmart">Walmart</a>
+                <a href=" ben and jerrys button ">Ben and Jerrys</a>
+                <a href=" blue bunny button ">Blue Bunny</a>
+            </div>
+        </div>
+        <!--flavor dropdown-->
+        <a href="https://www.walmart.com/ip/Great-Value-Vanilla-Bean-Flavored-Ice-Cream-48-fl-oz/12329733?athbdg=L1600&from=/browse/[...seo]">Vanilla Bean 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Cookies-Cream-Ice-Cream-48-fl-oz/12329735?athbdg=L1200&from=/browse/[...seo]">Cookies and Cream 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Homestyle-Vanilla-Flavored-Ice-Cream-48-fl-oz/20525252?from=/browse/[...seo]"> Homestyle Vanilla 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Chocolate-Ice-Cream-48-fl-oz/12329734?athbdg=L1600&from=/browse/[...seo]"> Chocolate 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Butter-Pecan-Ice-Cream-48-oz/12329737?athbdg=L1600&from=/browse/[...seo]">butter pecan 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Rocky-Road-Ice-Cream-48-oz/12329742?athbdg=L1600&from=/browse/[...seo]"> Rocky Road 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Mint-Chip-Ice-Cream-48-fl-oz/12329740?athbdg=L1600&from=/browse/[...seo]"> Mint chip 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Strawberry-Ice-Cream-48-fl-oz/12329738?athbdg=L1600&from=/browse/[...seo]"> Strawberry 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Chocolate-Chip-Cookie-Dough-Ice-Cream-48-fl-oz/12329744?athbdg=L1600&from=/browse/[...seo]"> Chocolate Chip Cookie Dough 2.76</a>
+        <br>
+        <a href="https://www.walmart.com/ip/Great-Value-Neapolitan-Ice-Cream-48-fl-oz/12329736?from=/browse/[...seo]">Neopolitian 2.76</a>
+    </body>
+</html>
