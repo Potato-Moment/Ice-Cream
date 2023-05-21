@@ -23,14 +23,3 @@
     display: block;
 }
 
-button[data-filter="walmart"]:focus ~ div:not([class*="walmart"]) {
-    display:none;
-  }
-
-.button[data-filter="van"]:focus ~ div:not([class*="van"]) {
-    display:none;
-}
-
-.button[data-filter="oreo"]:focus ~ div:not([class*="oreo"]) {
-    display:none;
-}
